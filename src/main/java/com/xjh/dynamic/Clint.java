@@ -2,7 +2,7 @@ package com.xjh.dynamic;
 
 import java.lang.reflect.Proxy;
 
-public class Test {
+public class Clint {
 
     public static void main(String[] args) {
 
